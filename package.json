@@ -1,0 +1,11 @@
+{
+  "name": "toilet-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryo-a/toilet-cli.git",
+  "author": "ryo-a <ryoa.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^6.7.12"
+  }
+}
